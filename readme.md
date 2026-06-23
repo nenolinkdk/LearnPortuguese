@@ -1,0 +1,1 @@
+Little android app in nenolinkdk/learnportuguese to present you with easy phrases in Po and DK and pronoounce. within basig 1000 words. Easy grammar for beginners. Lille glossary in each. Presenting 1 phrase at a time 
